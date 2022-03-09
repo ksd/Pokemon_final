@@ -10,3 +10,4 @@ Projektet her er et eksempel på
 5. NavigationView
 
 Det er brugt som en opgave på datamatiker uddannelsens 4 sem. i valgfaget iOS
+Dette er den mindst godkendte løsning
