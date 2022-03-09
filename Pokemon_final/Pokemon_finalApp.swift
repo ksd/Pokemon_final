@@ -9,9 +9,10 @@ import SwiftUI
 
 @main
 struct Pokemon_finalApp: App {
+    @State private var appState = PokemonStateController()
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView().environmentObject(appState)
         }
     }
 }
